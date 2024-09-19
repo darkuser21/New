@@ -1,7 +1,7 @@
 import streamlit as st
 from groq import Groq
 
-api = st.secrets["GROQ_API_KEY"]
+api = st.secrets["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"]
 client = Groq(api_key=api)
 
 st.title("SASTA chatGPT ")
