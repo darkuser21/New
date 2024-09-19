@@ -26,7 +26,7 @@ def chatGPT():
                 
                 if chat_completion.choices:
                     response = chat_completion.choices[0].message.content
-                    st.text_area("ChatGPT:", value=response, height=200)
+                    st.text_area("ChatGPT:", value=response)
                 else:
                     st.write("ChatGPT: KUCH GADBAD HAI")
             
