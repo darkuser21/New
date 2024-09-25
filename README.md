@@ -24,7 +24,7 @@ Before running the app, make sure you have the following installed:
 
 Clone the repository:
    ```bash
-https://github.com/darkuser/new
+https://github.com/darkuser/bot_using_lama
 ```
 ## Dependencies:
 
