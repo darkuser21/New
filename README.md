@@ -3,7 +3,7 @@
 This application demonstrates a ChatGPT-like interface built with Streamlit and powered by the Groq API for natural language processing.
 
 ## Have a look
-<img src="https://github.com/imabhnv/chatBot/blob/main/chatGPT.png">
+<img src="[https://github.com/darkuser21/bot_using_lama/blob/main/chatGPT.png]">
 
 
 ## Features
